@@ -3,7 +3,7 @@ About r-utf8
 
 Home: https://github.com/patperry/r-utf8
 
-Package license: Apache-2-0
+Package license: Apache-2.0
 
 Feedstock license: BSD 3-Clause
 
