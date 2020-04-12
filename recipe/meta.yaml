@@ -15,7 +15,7 @@ source:
 
 build:
   merge_build_host: True  # [win]
-  number: 1001
+  number: 1002
   rpaths:
     - lib/R/lib/
     - lib/
@@ -42,10 +42,11 @@ test:
 
 about:
   home: https://github.com/patperry/r-utf8
-  license: Apache-2-0
+  license: Apache-2.0
   summary: Process and print 'UTF-8' encoded international text (Unicode). Input, validate, normalize,
     encode, format, and display.
   license_family: APACHE
+  license_file: LICENSE
 
 extra:
   recipe-maintainers:
